@@ -63,4 +63,4 @@ And Pet object:
 }
 ```
 
-This would return as a good pet match because the user's preferred classification matches the pet's classification.  However, if Person A was opposed to dogs, we would want to be able to add an override for PetType.Dog so that this would no longer be a good match. 
+This would return as a good pet match because the user's preferred classification matches the pet's classification.  However, if Person A was opposed to dogs, we would want to be able to add an override for PetType.Dog so that this would no longer be a good match.
